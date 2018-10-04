@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/bf3986eb78043bf5a15c28e537a5ad34f8671b37/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b02e62d89dd438d53cb199944d43944505a3f953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/ed723c2e9d8ef746f86811c502137899eb59c614/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_58ca4e1f108265247c19bf8f075184270ec9534e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/e92ab6b8b4571d8d8abfd56fc7bb17bef3da89e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_296b79cd9412b5950bbb5396cde5955699b8d1b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/c7d4208edcac2fa46c6ed64aba6eb652276c118e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_88cdc53b67fb5e16c871accdb55f4969288b04a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/bf3986eb78043bf5a15c28e537a5ad34f8671b37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_e0270fa5a335fced892d43d4e203a27bbee96487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/074dfae28c6538ef1995061e6767fa912eaa4ab7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_7160efb83e74f3e4f47364496e5542585f0b3f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4015ca6b9f3edce47517bce28f7fd7a0462828a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/65ed23a6c7562741a48dab4aecd0e4415dcd9b72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_b440f48f834be28af3e0b446b197bf5e90e46526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/aa31bd148f6074760b1bd11e0819a48ad97f4c54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_448470c7d811a8a55bad214724e5b4be923bc134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/aa31bd148f6074760b1bd11e0819a48ad97f4c54/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ba72c09b1483a91cd9b1b932abf06cbad949d8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_04a8ba96ae435587834d15ee26ee2b635bfb6b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/ed723c2e9d8ef746f86811c502137899eb59c614/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_5a744a68bdb3ae35f3d6ad9cf4505ac1e881031c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/c7d4208edcac2fa46c6ed64aba6eb652276c118e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7f941e32cb7cd437acfb03caea2ab6a84d78b74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/97a0f2f9a9f40337c6010ba3b9f43dedd47172e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_d6b8ea9dee87501623c226b781d0a1810cf400ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/97a0f2f9a9f40337c6010ba3b9f43dedd47172e1/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d3a37399f490bbc2bcf8b2367772dd7848b2b76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/df93ffe7494689244b9be9c7a70556ccbfc06897/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_8381ec665d3a1a4af924e387988386689c9d14f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MURIKSR1/.android/build-cache/c27116f7e1f46c72b4d4f65615f8c9d5612aa61b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/MURIKSR1/FirstApplication/app/build/intermediates/pre-dexed/debug/classes_454555a43fcdcf916a7ee7360a5983a201e57b9a.jar" />
+    </item>
+
+</items>
