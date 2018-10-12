@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:hint="Enter your userName"
             android:inputType="text"
-            android:padding="20dp"
+            android:padding="10dp"
             android:layout_margin="10dp"
             android:layout_marginStart="32dp"
             android:layout_marginEnd="32dp"
@@ -36,7 +36,7 @@
             android:id="@+id/password"
             android:hint="enter your password"
             android:inputType="textPassword"
-            android:padding="20dp"
+            android:padding="10dp"
             android:layout_margin="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -50,7 +50,21 @@
             android:id="@+id/email"
             android:hint="enter your mail"
             android:inputType="textEmailAddress"
-            android:padding="20dp"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:background="@drawable/edit_text"
+            android:fontFamily="@android:string/emptyPhoneNumber"
+            android:textAlignment="center"/>
+
+        <EditText
+            android:id="@+id/phone"
+            android:hint="enter your phone No"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
             android:layout_margin="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -63,30 +77,16 @@
     <Button
         android:id="@+id/but"
         android:text="Register"
-        android:textColor="@color/log_text_color"
+        android:textColor="@android:color/holo_blue_dark"
         android:layout_marginStart="46dp"
         android:layout_marginEnd="46dp"
-        android:background="@drawable/but_2"
-        android:layout_marginBottom="80dp"
+
+        android:layout_marginBottom="20dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="22sp" />
-    <!--<Button
-        android:padding="20dp"
-        android:gravity="center"
-        android:layout_marginBottom="10dp"
-        android:layout_marginTop="100dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp"
-        android:background="@drawable/but_2"
-        android:fontFamily="@android:string/emptyPhoneNumber"
-        android:textAlignment="center"
-        android:textColor="@color/log_text_color"
 
-        />-->
 </RelativeLayout>
 

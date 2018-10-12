@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent intent;
         switch (view.getId()) {
             case R.id.register:
-                intent= new Intent(this, Main2Activity.class);
+                intent= new Intent(this, Main9Activity.class);
                 finish();
                 startActivity(intent);
                 break;

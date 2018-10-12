@@ -67,7 +67,7 @@
             android:padding="1dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/login_but_bg"
+
             android:textColor="@color/log_text_color"
             android:text="submit"
             android:textSize="20sp"

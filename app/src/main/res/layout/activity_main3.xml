@@ -12,6 +12,14 @@
     android:paddingTop="80dp"
     >
 
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="0dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/jj" />
+        />
     <TextView
         android:id="@+id/welcome"
         android:paddingStart="8dp"
@@ -22,6 +30,14 @@
         android:text="WELCOME  TO   HOME PAGE"
         android:gravity="top|center"
         android:textColor="@android:color/white"
-        android:textSize="25dp"
+        android:textSize="20dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:textSize="20dp"
+        android:id="@+id/butt"
         />
 </LinearLayout>

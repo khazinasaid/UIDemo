@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment3"
+    android:id="@+id/frame3">
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/kk"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingTop="80dp"
+        >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/jj" />
+        />
+        <TextView
+            android:id="@+id/welcome"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_width="300dp"
+            android:layout_weight="1"
+            android:layout_height="10dp"
+            android:text="WELCOME  TO   HOME PAGE"
+            android:gravity="top|center"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:textSize="20dp"
+            android:id="@+id/butt"
+            />
+    </LinearLayout>
+
+</FrameLayout>
